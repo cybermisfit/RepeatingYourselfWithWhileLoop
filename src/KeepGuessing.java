@@ -20,7 +20,7 @@ public class KeepGuessing {
         while ( guess != secretNumber && guess != secondSecretNumber)
         {
             System.out.println("\nYou are wrong. Try again.");
-            System.out.println("Enter the number: ");
+            System.out.println("Enter the number: ");git
             guess = keyboard.nextInt();
 
         }
