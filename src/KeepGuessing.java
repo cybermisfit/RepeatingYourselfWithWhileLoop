@@ -13,7 +13,6 @@ public class KeepGuessing {
 
 
 
-
         System.out.println("I'm thinking of a number between 1 and 1000");
         System.out.print("Enter the number:");
         guess = keyboard.nextInt();
